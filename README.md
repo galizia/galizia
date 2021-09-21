@@ -3,7 +3,7 @@
 - 👀 I’m interested in olfactory coding of the insect brain, calcium imaging, neuroscience, learning and memory.
 We develop tools for calcium imaging, and a reporsitory for olfactory receptor response profiles.
 
-The DoOR Database is her on gitHub,
+The DoOR Database is here on gitHub,
 and pyVIEW, a program for evaluating calcium imaging data, optimized for the analysis of odorant evoked activity patterns.
 
 - 📫 How to reach me: galizia@uni.kn
